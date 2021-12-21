@@ -1,0 +1,3 @@
+com/brqdford/slashdiscord/slashdiscord.java
+ com.brqdford.slashdiscord.slashdiscord
+ com.brqdford.slashdiscord.slashdiscord$1
